@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ [![github stats](https://github-readme-stats.vercel.app/api?username=seongjaee)](https://github.com/anuraghazra/github-readme-stats)  
+ 
+ [![Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=xpsxm468)](https://solved.ac/xpsxm468/)
+ 
