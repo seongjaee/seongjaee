@@ -1,21 +1,14 @@
-### Hi there 👋
 
-<!--
-**seongjaee/seongjaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- [![github stats](https://github-readme-stats.vercel.app/api?username=seongjaee)](https://github.com/anuraghazra/github-readme-stats)  
+Studying :mag:
  
- [![Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=xpsxm468)](https://solved.ac/xpsxm468/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+ Solved.ac
  
+ 
+ ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=xpsxm468)
+
