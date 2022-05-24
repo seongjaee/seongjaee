@@ -18,6 +18,7 @@
 </br>
 
 ### ⭐ My Github Stats
- 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=seongjaee&layout=compact&theme=dracula)</br>
-![github stats](https://github-readme-stats.vercel.app/api?username=seongjaee&theme=dracula&show_icons=true&hide_title=true&disable_animations=true&hide=stars)
+ <div>
+     <img src="https://github-readme-stats.vercel.app/api?username=seongjaee&theme=dracula&show_icons=true&hide_title=true&disable_animations=true&hide=stars" height="150px"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjaee&layout=compact&theme=dracula" height="150px"/>
+ </div>
